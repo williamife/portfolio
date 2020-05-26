@@ -5,3 +5,6 @@ This is my Python portfolio
 
 1. Rock, Paper, Scissors
 2. Uppercase, Lowercase Calculator
+3. String Reverse
+4. Max Number Calculator
+5. Number Guessing Game
