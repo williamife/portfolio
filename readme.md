@@ -1,5 +1,5 @@
 # My Portfolio
-This is where I've stored my AWS re:Start projects
+In this portfolio, we'll be exploring the Python projects I worked on while a trainee at AWS re:Start.
 
 ## Contents ##
 
