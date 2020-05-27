@@ -1,7 +1,7 @@
 # My Portfolio
-This is my Python portfolio
+This is where I've stored my AWS re:Start projects
 
-## This is where I've stored my AWS re:Start projects ##
+## Contents ##
 
 1. Rock, Paper, Scissors
 2. Uppercase, Lowercase Calculator
